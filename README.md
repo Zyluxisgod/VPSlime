@@ -1,2 +1,2 @@
 # VPSlime
-This is an ssh brute force tool I made.It can bruteforce into anything that can do ssh connection and has its ssh port open.It can also login and interact with a devixe or server through ssh connection.
+This is an ssh brute force tool I made.It can bruteforce into anything that can do ssh connection and has its ssh port open.It can also login and interact with a devixe or server through ssh connection.It works by having a txt file in its directory and usind the passwords on that file to attempt to break in.When the prompt stops blinking after putting your login information in that means it is time for you to put a command in.
